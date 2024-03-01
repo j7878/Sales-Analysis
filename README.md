@@ -13,6 +13,7 @@
 
 Amid challenges faced by C&G, Sales Director Kash Kent struggles with obtaining accurate performance insights and faces communication biases from regional managers. This project aims to overcome these hurdles by streamlining data analysis processes and improving transparency. By transitioning from complex Excel files to advanced analytics techniques, the project seeks to empower decision-making and drive effective sales strategies.
 
+[View Dashboard](https://public.tableau.com/views/Portfolioproject3_17081326052890/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 ![Dashboard 1 (1)](https://github.com/j7878/Sales-Analysis/assets/58298723/2034360c-a0d6-4eff-a7a0-a35c17e57fec)
 
 
